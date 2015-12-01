@@ -12,8 +12,7 @@ preferred browser for front end development?
 
 
 I am randeep
-
-i work at yourgrocer.svg
+  i work at yourgrocer.svg
 
 i have no idea what i'm doing
 
@@ -28,7 +27,8 @@ Note: for all of these features, you may need to tweak them in:
 
 
 DOM Explorer:
-    
+
+  - clickable breadcrumbs
   - Styles: (use codepen public menu)
       - Filter by attribute or media query
       - Simulate :hover, :active
@@ -43,6 +43,7 @@ DOM Explorer:
   - Search by CSS selector
   - Show repaints, borders, FPS counter
   - Set a attribute modification breakpoint for codepen menu, show menu
+    - right click a dom node for this
 
   Emulation Mode:
     - Change phone size
@@ -71,20 +72,25 @@ Network:
 Editor:
     - super useful for standalone angular app that is deployed on a simple node container and uses lots of API calls
     - fire up the retailer app
+    - right click and black box script
+      - show call stack
+      - get a good react demo going.
 
 
     - Set a attribute modification breakpoint for codepen menu, show menu
     - pretty print
     - show/hide menus
 
+#Use Chrome as a text editor/sublime
 !!!!- workspace binding.
     - cmd + d to sublime multi cursor
       - edit
       - ????
       - profit
+    - search across all files
     - save
 
-    - work only within chrome for apps likes this
+    
 
 Timeline:
   - no idea what i'm doing.gif
@@ -117,6 +123,8 @@ Console:
     }
   ]
   - console.table
+  - copy command
+  - cmd + K to clean console
 
 Chrome Canary:
     - Better animation tools
@@ -129,3 +137,24 @@ option command i to inspect dev tools with dev tools
 
 
 Note: for all of these features, you may need to tweak them in settings and chrome://flags
+
+
+
+
+
+
+TODO:
+
+- presnetation
+record
+use codrops?
+- highglight on change
+
+
+
+todo:
+
+presentation
+  - YG theme
+good examples to work with
+run a boiler plate react demo
