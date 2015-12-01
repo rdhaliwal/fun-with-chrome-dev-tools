@@ -28,6 +28,9 @@ Note: for all of these features, you may need to tweak them in:
 
 DOM Explorer:
 
+ - use codepen.io
+ - use getbootstrap.com
+
   - clickable breadcrumbs
   - Styles: (use codepen public menu)
       - Filter by attribute or media query
@@ -41,9 +44,11 @@ DOM Explorer:
       - http://codepen.io/rdhaliwal/debug/yNgZyW
     - Edit bezier curves
   - Search by CSS selector
+    bootstrap, .row .col-sm-4
   - Show repaints, borders, FPS counter
   - Set a attribute modification breakpoint for codepen menu, show menu
     - right click a dom node for this
+    - use codepen jobs link
 
   Emulation Mode:
     - Change phone size
@@ -70,13 +75,12 @@ Network:
     - number of requests, amount downloaded
 
 Editor:
+    - point to localhost:8080 and the react-starter-app
+
     - super useful for standalone angular app that is deployed on a simple node container and uses lots of API calls
-    - fire up the retailer app
     - right click and black box script
       - show call stack
       - get a good react demo going.
-
-
     - Set a attribute modification breakpoint for codepen menu, show menu
     - pretty print
     - show/hide menus
