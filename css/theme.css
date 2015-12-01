@@ -1,0 +1,465 @@
+/* Intro1-2 */
+.SuncorpLogo {
+    background: #006f66 url('data:image/svg+xml;charset=US-ASCII,<%3Fxml%20version%3D"1.0"%20encoding%3D"iso-8859-1"%3F>%0D%0A<%21--%20Generator%3A%20Adobe%20Illustrator%2017.1.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20-->%0D%0A<%21DOCTYPE%20svg%20PUBLIC%20"-//W3C//DTD%20SVG%201.1//EN"%20"http%3A//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">%0D%0A<svg%20version%3D"1.1"%20xmlns%3D"http%3A//www.w3.org/2000/svg"%20xmlns%3Axlink%3D"http%3A//www.w3.org/1999/xlink"%20x%3D"0px"%20y%3D"0px"%0D%0A%09%20viewBox%3D"0%200%2048%2048"%20style%3D"enable-background%3Anew%200%200%2048%2048%3B"%20xml%3Aspace%3D"preserve">%0D%0A<g%20id%3D"Layer_1_1_">%0D%0A%09<g>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M25.692%2C3.33c-1.022%2C0.009-2.017%2C0.097-2.996%2C0.243l3.32%2C15.519L29.578%2C3.62%0D%0A%09%09%09C28.312%2C3.413%2C27.014%2C3.309%2C25.692%2C3.33"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M29.584%2C3.62l-1.643%2C15.79l8.173-13.612C34.099%2C4.75%2C31.894%2C4.006%2C29.584%2C3.62"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M45.664%2C15.488c-1.036-2.073-2.398-3.961-4.008-5.594L31.057%2C21.707L45.664%2C15.488z"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M16.12%2C5.643l7.964%2C13.738L22.689%2C3.573C20.364%2C3.919%2C18.147%2C4.626%2C16.12%2C5.643"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M47.75%2C22.055c-0.347-2.331-1.066-4.535-2.082-6.567l-13.739%2C7.967L47.75%2C22.055z"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M36.12%2C5.798L29.684%2C20.31L41.653%2C9.888C40.039%2C8.254%2C38.171%2C6.871%2C36.12%2C5.798"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M10.516%2C9.651l11.818%2C10.604L16.119%2C5.646C14.043%2C6.682%2C12.155%2C8.041%2C10.516%2C9.651"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M45.531%2C35.494c1.052-2.017%2C1.797-4.222%2C2.175-6.542l-15.804-1.637L45.531%2C35.494z"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M47.75%2C22.06l-15.532%2C3.328l15.49%2C3.556c0.205-1.252%2C0.307-2.546%2C0.29-3.86%0D%0A%09%09%09C47.982%2C24.057%2C47.9%2C23.048%2C47.75%2C22.06"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M41.441%2C41.04c1.636-1.615%2C3.025-3.484%2C4.09-5.542l-14.536-6.447L41.441%2C41.04z"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M36.571%2C44.673c1.789-0.976%2C3.428-2.205%2C4.868-3.633L29.695%2C30.507%0D%0A%09%09%09C32.897%2C34.851%2C35.186%2C39.66%2C36.571%2C44.673"/>%0D%0A%09%09<path%20style%3D"fill%3A%23FDBB2F%3B"%20d%3D"M6.792%2C14.5c4.997%2C1.448%2C9.794%2C3.811%2C14.125%2C7.099L10.512%2C9.653%0D%0A%09%09%09C9.062%2C11.081%2C7.809%2C12.711%2C6.792%2C14.5"/>%0D%0A%09</g>%0D%0A%09<path%20style%3D"fill%3A%23BD1903%3B"%20d%3D"M0.065%2C12.406c0%2C0-1.391%2C10.666%2C8.741%2C17.546c0%2C0%2C8.008%2C5.935%2C18.615%2C1.42%0D%0A%09%09C20.798%2C22.248%2C11.19%2C15.449%2C0.065%2C12.406"/>%0D%0A</g>%0D%0A<g%20id%3D"Layer_1">%0D%0A</g>%0D%0A</svg>%0D%0A') no-repeat 50%;
+    width:250px;
+    height: 250px;
+    background-size: 200px;
+    border-radius: 5px;
+    border: none !important;
+    float:left;
+}
+
+.SuncorpList {
+    float:right;
+    width: 66%;
+}
+
+/* Chrome Animation */
+/* --- Animations --- */
+@-webkit-keyframes rotate {
+  0%,100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+    -webkit-transform-origin: center;
+            transform-origin: center;
+  }
+  25%, 75% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: center;
+            transform-origin: center;
+  }
+}
+@keyframes rotate {
+  0%,100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+    -webkit-transform-origin: center;
+            transform-origin: center;
+  }
+  25%, 75% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+    -webkit-transform-origin: center;
+            transform-origin: center;
+  }
+}
+@-webkit-keyframes fadeIn {
+  0%, 100% {
+    opacity: 0;
+    -webkit-transform-origin: center;
+            transform-origin: center;
+    -webkit-transform: scale(0.2);
+            transform: scale(0.2);
+    visibility: invisible;
+  }
+  25%, 75% {
+    -webkit-transform-origin: center;
+            transform-origin: center;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+@keyframes fadeIn {
+  0%, 100% {
+    opacity: 0;
+    -webkit-transform-origin: center;
+            transform-origin: center;
+    -webkit-transform: scale(0.2);
+            transform: scale(0.2);
+    visibility: invisible;
+  }
+  25%, 75% {
+    -webkit-transform-origin: center;
+            transform-origin: center;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+@-webkit-keyframes Red {
+  from {
+    fill: #E53D33;
+  }
+  to {
+    fill: #E53D33;
+  }
+}
+@keyframes Red {
+  from {
+    fill: #E53D33;
+  }
+  to {
+    fill: #E53D33;
+  }
+}
+@-webkit-keyframes Yellow {
+  from {
+    fill: #F6C700;
+  }
+  to {
+    fill: #F6C700;
+  }
+}
+@keyframes Yellow {
+  from {
+    fill: #F6C700;
+  }
+  to {
+    fill: #F6C700;
+  }
+}
+@-webkit-keyframes Blue {
+  0% {
+    fill: #3B85C7;
+  }
+  100% {
+    fill: #3B85C7;
+  }
+}
+@keyframes Blue {
+  0% {
+    fill: #3B85C7;
+  }
+  100% {
+    fill: #3B85C7;
+  }
+}
+@-webkit-keyframes Green {
+  0% {
+    fill: #4CAD3F;
+  }
+  100% {
+    fill: #4CAD3F;
+  }
+}
+@keyframes Green {
+  0% {
+    fill: #4CAD3F;
+  }
+  100% {
+    fill: #4CAD3F;
+  }
+}
+
+@-webkit-keyframes Gold1 {
+  0% {
+    fill: #CF992E;
+  }
+  100% {
+    fill: #CF992E;
+  }
+}
+@keyframes Gold1 {
+  0% {
+    fill: #CF992E;
+  }
+  100% {
+    fill: #CF992E;
+  }
+}
+
+@-webkit-keyframes Gold2 {
+  0% {
+    fill: #D99F26;
+  }
+  100% {
+    fill: #D99F26;
+  }
+}
+@keyframes Gold2 {
+  0% {
+    fill: #D99F26;
+  }
+  100% {
+    fill: #D99F26;
+  }
+}
+
+
+.container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.svg-chrome {
+  width: 8em;
+  height: 8em;
+  -webkit-animation: fadeIn 5s infinite, rotate 5s infinite;
+          animation: fadeIn 5s infinite, rotate 5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#square-layer {
+  fill: #fff;
+  -webkit-animation: fadeIn 5s infinite;
+          animation: fadeIn 5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#blue-layer {
+  -webkit-animation: fadeIn 5s infinite, Blue 1.5s infinite;
+          animation: fadeIn 5s infinite, Blue 1.5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#red-layer {
+  -webkit-animation: fadeIn 5s infinite, Red 1.5s infinite;
+          animation: fadeIn 5s infinite, Red 1.5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#yellow-layer {
+  -webkit-animation: fadeIn 5s infinite, Yellow 1.5s infinite;
+          animation: fadeIn 5s infinite, Yellow 1.5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#green-layer {
+  -webkit-animation: fadeIn 5s infinite, Green 1.5s infinite;
+          animation: fadeIn 5s infinite, Green 1.5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#gold1-layer {
+  -webkit-animation: fadeIn 5s infinite, Gold1 1.5s infinite;
+          animation: fadeIn 5s infinite, Gold1 1.5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#gold2-layer {
+  -webkit-animation: fadeIn 5s infinite, Gold2 1.5s infinite;
+          animation: fadeIn 5s infinite, Gold2 1.5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#gold3-layer {
+  -webkit-animation: fadeIn 5s infinite, Yellow 1.5s infinite;
+          animation: fadeIn 5s infinite, Yellow 1.5s infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+          animation-timing-function: cubic-bezier(0.15, 0.47, 0.14, 0.77);
+}
+
+#Logo {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: -15%;
+  /*bottom: 0;*/
+  /*left: -25%;*/
+  margin: auto;
+  display: block;
+  /* fill: #aa7f3d; */
+  /* fill: url("#MyGradient"); */
+  stroke-miterlimit: 10;
+}
+.Animate-Draw {
+  fill-opacity: 0;
+  -webkit-animation-timing-function: ease-in-out;
+          animation-timing-function: ease-in-out;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  animation-iteration: 1;
+  -webkit-animation-name: DrawLine, FadeStroke, FillIn;
+          animation-name: DrawLine, FadeStroke, FillIn;
+  -webkit-animation-duration: 4s, 1s, 5s;
+          animation-duration: 4s, 1s, 5s;
+  -webkit-animation-delay: 0, 4s, 4s;
+          animation-delay: 0, 4s, 4s;
+}
+@-webkit-keyframes DrawLine {
+  to {
+    stroke-dashOffset: 0;
+  }
+}
+@keyframes DrawLine {
+  to {
+    stroke-dashOffset: 0;
+  }
+}
+@-webkit-keyframes FadeStroke {
+  to {
+    stroke-opacity: 0;
+  }
+}
+@keyframes FadeStroke {
+  to {
+    stroke-opacity: 0;
+  }
+}
+@-webkit-keyframes FillIn {
+  from {
+    fill-opacity: 0;
+  }
+  to {
+    fill-opacity: 1;
+  }
+}
+@keyframes FillIn {
+  from {
+    fill-opacity: 0;
+  }
+  to {
+    fill-opacity: 1;
+  }
+}
+/* DrawLine, FadeStroke, FillIn; */
+/* Your */
+/* Grocer */
+/* .com.au */
+/* Food */
+/* Circle */
+#DrawYourGrocerLogo-your {
+  -webkit-animation-delay: 0s, 4s, 4s;
+          animation-delay: 0s, 4s, 4s;
+  -webkit-animation-duration: 4s, 1s, 1s;
+          animation-duration: 4s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-grocer {
+  -webkit-animation-name: DrawLine, FadeStroke, FillIn;
+          animation-name: DrawLine, FadeStroke, FillIn;
+  /* animation-duration: 3s; */
+  /* animation-delay: 0; */
+  -webkit-animation-delay: 1s, 4s, 4s;
+          animation-delay: 1s, 4s, 4s;
+  -webkit-animation-duration: 3s, 1s, 1s;
+          animation-duration: 3s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-comAu {
+  -webkit-animation-delay: 1.5s, 4s, 4s;
+          animation-delay: 1.5s, 4s, 4s;
+  -webkit-animation-duration: 2.5s, 1s, 1s;
+          animation-duration: 2.5s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-leafGroup {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-foodLeaf1 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 100;
+  stroke-dashoffset: 100;
+}
+#DrawYourGrocerLogo-foodLeaf2 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 100;
+  stroke-dashoffset: 100;
+}
+#DrawYourGrocerLogo-foodLeaf3 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 100;
+  stroke-dashoffset: 100;
+}
+#DrawYourGrocerLogo-foodBread {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-foodWine1 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-foodWine2 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-foodApple1 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-foodApple2 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-foodSausage1 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-foodSausage2 {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-bag {
+  -webkit-animation-delay: 2s, 4s, 4s;
+          animation-delay: 2s, 4s, 4s;
+  -webkit-animation-duration: 2s, 1s, 1s;
+          animation-duration: 2s, 1s, 1s;
+  stroke-dashArray: 10000;
+  stroke-dashoffset: 10000;
+}
+#DrawYourGrocerLogo-circle {
+  -webkit-animation-delay: 3s, 4s, 4s;
+          animation-delay: 3s, 4s, 4s;
+  -webkit-animation-duration: 1s, 1s, 1s;
+          animation-duration: 1s, 1s, 1s;
+  stroke-dashArray: 1000;
+  stroke-dashoffset: 1000;
+}
