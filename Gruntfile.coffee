@@ -76,7 +76,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:rdhaliwal/working-with-styleguides.git'
+                    remote: 'git@github.com:rdhaliwal/fun-with-chrome-dev-tools.git'
                     branch: 'gh-pages'
 
 
